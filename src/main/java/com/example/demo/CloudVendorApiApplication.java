@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CloudVenderApiApplication {
+public class CloudVendorApiApplication {  
 
     public static void main(String[] args) {
-        SpringApplication.run(CloudVenderApiApplication.class, args);
+        SpringApplication.run(CloudVendorApiApplication.class, args);  
     }
 }
